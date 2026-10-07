@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C1272D&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+GitHub+👋;Computer+Engineering+Student+%40+UCAM;Backend+%7C+Data+%7C+Software;Siempre+aprendiendo%2C+siempre+codeando)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-gallego-mart%C3%ADnez-211797328/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01062005i)
-[![Murcia](https://img.shields.io/badge/Murcia-España-C1272D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/01062005i)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isramrtnz)
+[![Murcia](https://img.shields.io/badge/Murcia-España-C1272D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/isramrtnz)
 
-![Profile Views](https://komarev.com/ghpvc/?username=01062005i&color=c1272d&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=isramrtnz&color=c1272d&style=flat)
 </div>
 
 ---
@@ -56,21 +56,21 @@ Datos:         Pandas • NumPy • MySQL • Preprocesamiento de datos
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=01062005i&show_icons=true&title_color=C1272D&icon_color=C1272D&text_color=FFFFFF&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=01062005i&background=0D1117&stroke=C1272D&ring=C1272D&fire=C1272D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C1272D&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=isramrtnz&show_icons=true&title_color=C1272D&icon_color=C1272D&text_color=FFFFFF&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=isramrtnz&background=0D1117&stroke=C1272D&ring=C1272D&fire=C1272D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C1272D&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true)
 
 ### 💻 Lenguaje más usado: C
 
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/01062005i)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/isramrtnz)
 
 *Mi lenguaje principal es **C** — es donde más horas llevo en la carrera.*
 
 <!-- 
 DESCOMENTA ESTO CUANDO TENGAS 3-4 REPOS PÚBLICOS.
 Ahora sale "No languages data" y roto porque tienes 0 contribuciones (normal al empezar).
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01062005i&layout=compact&title_color=C1272D&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=01062005i&bg_color=0D1117&color=C1272D&line=C1272D&point=FFFFFF&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=01062005i&theme=radical&no-frame=true&row=1&column=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isramrtnz&layout=compact&title_color=C1272D&text_color=FFFFFF&bg_color=0D1117&hide_border=true&langs_count=8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isramrtnz&bg_color=0D1117&color=C1272D&line=C1272D&point=FFFFFF&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=isramrtnz&theme=radical&no-frame=true&row=1&column=6)
 -->
 
 </div>
@@ -80,12 +80,12 @@ Ahora sale "No languages data" y roto porque tienes 0 contribuciones (normal al 
 <!-- 
 SNAKE OCULTO HASTA QUE ACTIVES EL WORKFLOW.
 Te sale roto porque aún no existe la rama `output`.
-1. En tu repo 01062005i > Actions > New workflow > pega `.github/workflows/snake.yml` que te dejé
+1. En tu repo isramrtnz > Actions > New workflow > pega `.github/workflows/snake.yml` que te dejé
 2. Haz commit, espera 5 min, se crea la rama `output` sola
 3. Entonces borra estos <!-- --> para mostrarlo:
 
 ### 🐍 Snake (se come tus contribuciones)
-![snake gif](https://github.com/01062005i/01062005i/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/isramrtnz/isramrtnz/blob/output/github-snake-dark.svg)
 -->
 
 ---
